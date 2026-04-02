@@ -43,7 +43,7 @@ This project analyzes factory downtime data to identify key factors affecting pr
 
 ## 📷 Dashboard Preview
 
-This repository contains my Factory Downtime Analysis Dashboard project, where I analyzed production downtime data to identify key issues affecting efficiency. The project focuses on uncovering patterns, visualizing insights, and providing actionable recommendations to improve operational performance.
+![Dashboard](Dashboard.png)
 
 ---
 
